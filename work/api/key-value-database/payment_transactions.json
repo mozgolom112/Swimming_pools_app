@@ -1,0 +1,274 @@
+{
+    "Transactions": [
+        {
+            "uuid": "746c6cb6-af0f-11eb-9c48-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "11:00:00",
+                "id_ticket": -1
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 11:40:34.279536",
+                "time_append_ticket_from_db": "2021-05-07 11:40:34.281535"
+            }
+        },
+        {
+            "uuid": "af9603b9-af0f-11eb-850c-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "11:00:00",
+                "id_ticket": -1
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 11:40:34.279536",
+                "time_append_ticket_from_db": "2021-05-07 11:40:34.281535"
+            }
+        },
+        {
+            "uuid": "e3999460-af0f-11eb-b1f7-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "11:00:00",
+                "id_ticket": -1
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 11:40:34.279536",
+                "time_append_ticket_from_db": "2021-05-07 11:40:34.281535"
+            }
+        },
+        {
+            "uuid": "e88b0526-af11-11eb-9a3f-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "11:00:00",
+                "id_ticket": 25
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 11:55:01.567185",
+                "time_append_ticket_from_db": "2021-05-07 11:56:32.856947"
+            }
+        },
+        {
+            "uuid": "30f69d4b-af12-11eb-9355-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "11:00:00",
+                "id_ticket": 26
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 11:57:03.068271",
+                "time_append_ticket_from_db": "2021-05-07 11:57:03.125253"
+            }
+        },
+        {
+            "uuid": "ee39f82f-af17-11eb-a68d-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "10:00:00",
+                "id_ticket": 27
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:38:08.082720",
+                "time_append_ticket_from_db": "2021-05-07 12:38:18.029533"
+            }
+        },
+        {
+            "uuid": "0ff4e631-af18-11eb-a1ca-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 28
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:39:04.671595",
+                "time_append_ticket_from_db": "2021-05-07 12:39:04.685591"
+            }
+        },
+        {
+            "uuid": "29085a19-af18-11eb-bf4e-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "19:00:00",
+                "id_ticket": 29
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:39:46.742120",
+                "time_append_ticket_from_db": "2021-05-07 12:39:46.748119"
+            }
+        },
+        {
+            "uuid": "3d18f390-af18-11eb-9cdd-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "19:00:00",
+                "id_ticket": 30
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:40:20.405339",
+                "time_append_ticket_from_db": "2021-05-07 12:40:20.411338"
+            }
+        },
+        {
+            "uuid": "45254bd7-af18-11eb-b47a-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "19:00:00",
+                "id_ticket": 31
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:40:33.908015",
+                "time_append_ticket_from_db": "2021-05-07 12:40:33.922010"
+            }
+        },
+        {
+            "uuid": "51008494-af18-11eb-8b69-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-02",
+                "time": "10:00:00",
+                "id_ticket": 32
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:40:53.799643",
+                "time_append_ticket_from_db": "2021-05-07 12:40:53.805642"
+            }
+        },
+        {
+            "uuid": "3e66348a-af19-11eb-8a84-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "10:00:00",
+                "id_ticket": 33
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 12:47:32.088080",
+                "time_append_ticket_from_db": "2021-05-07 12:47:32.103076"
+            }
+        },
+        {
+            "uuid": "ac867b55-af1b-11eb-b51b-ac220b834013",
+            "ticket_info": {
+                "id_client": 1,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 34
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 13:04:55.841444",
+                "time_append_ticket_from_db": "2021-05-07 13:04:55.858438"
+            }
+        },
+        {
+            "uuid": "f9f8ef7d-af37-11eb-ad2f-ac220b834013",
+            "ticket_info": {
+                "id_client": 3,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 37
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 16:27:31.683519",
+                "time_append_ticket_from_db": "2021-05-07 16:27:31.701514"
+            }
+        },
+        {
+            "uuid": "00ee705e-af38-11eb-9cc3-ac220b834013",
+            "ticket_info": {
+                "id_client": 3,
+                "id_pool": 1,
+                "date": "2021-01-01",
+                "time": "19:00:00",
+                "id_ticket": 38
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 16:27:43.358780",
+                "time_append_ticket_from_db": "2021-05-07 16:27:43.405765"
+            }
+        },
+        {
+            "uuid": "bb4b0eea-af3c-11eb-ad7b-ac220b834013",
+            "ticket_info": {
+                "id_client": 6,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 39
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 17:01:34.009906",
+                "time_append_ticket_from_db": "2021-05-07 17:01:34.059889"
+            }
+        },
+        {
+            "uuid": "bc74d07d-af3c-11eb-8d07-ac220b834013",
+            "ticket_info": {
+                "id_client": 6,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 40
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 17:01:35.960281",
+                "time_append_ticket_from_db": "2021-05-07 17:01:35.969278"
+            }
+        },
+        {
+            "uuid": "c292a0a7-af3c-11eb-a050-ac220b834013",
+            "ticket_info": {
+                "id_client": 6,
+                "id_pool": 1,
+                "date": "2021-01-04",
+                "time": "10:00:00",
+                "id_ticket": 41
+            },
+            "payment_info": {
+                "card": 0,
+                "time_payment": "2021-05-07 17:01:46.221994",
+                "time_append_ticket_from_db": "2021-05-07 17:01:46.288973"
+            }
+        }
+    ]
+}

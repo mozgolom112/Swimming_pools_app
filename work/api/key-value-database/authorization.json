@@ -1,0 +1,33 @@
+{
+    "login": [
+        {
+            "login": "ngolovanov",
+            "password": "1234",
+            "id_client": "1"
+        },
+        {
+            "login": "admin",
+            "password": "admin",
+            "id_client": "-1"
+        },
+        {
+            "login": "lol",
+            "password": "admin",
+            "id_client": "3"
+        },
+        {
+            "login": "ra",
+            "password": "ra",
+            "id_client": 12
+        },
+        {
+            "login": "ar",
+            "password": "wr",
+            "id_client": 13
+        }
+    ],
+    "db_login": {
+        "admin": "admin",
+        "user": "user"
+    }
+}
